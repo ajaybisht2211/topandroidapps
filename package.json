@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ajaybisht2211/topandroidapps#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "google-play-scraper": "^7.1.2",
     "mongodb": "^3.5.5"
   }
 }
