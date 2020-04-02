@@ -1,0 +1,23 @@
+{
+  "name": "topandroidapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaybisht2211/topandroidapps.git"
+  },
+  "author": "AJAY BISHT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaybisht2211/topandroidapps/issues"
+  },
+  "homepage": "https://github.com/ajaybisht2211/topandroidapps#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5"
+  }
+}

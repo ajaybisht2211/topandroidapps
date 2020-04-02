@@ -1,0 +1,28 @@
+{
+  "name": "topandroidapps",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "AJAY BISHT"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ajaybisht2211/topandroidapps",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jquery-ui": "^1.12.1",
+    "ionicons": "^5.0.0",
+    "angular": "^1.7.9",
+    "angular-resource": "^1.7.9",
+    "angular-ui-router": "^1.0.25",
+    "angular-sanitize": "^1.7.9"
+  }
+}
